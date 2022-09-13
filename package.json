@@ -1,5 +1,5 @@
 {
-  "name": "cypress",
+  "name": "cypress-auto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/quynhxinhdep1701/Cypress/issues"
   },
-  "homepage": "https://github.com/quynhxinhdep1701/Cypress#readme"
+  "homepage": "https://github.com/quynhxinhdep1701/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
 }
